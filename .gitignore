@@ -1,0 +1,9 @@
+# Secrets
+.env
+
+# PDFs (the Laws of Cricket are MCC copyright - see README for the download link)
+*.pdf
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
