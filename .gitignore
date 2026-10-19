@@ -3,6 +3,10 @@
 
 # PDFs (the Laws of Cricket are MCC copyright - see README for the download link)
 *.pdf
+!report.pdf
+
+# Report (submitted separately)
+report/
 
 # Python / Jupyter
 __pycache__/
